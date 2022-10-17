@@ -1,0 +1,3 @@
+Saving logs data to ./experimentMinigrid/torchbeast-20221012-002350/logs.csv
+Saving logs' fields to ./experimentMinigrid/torchbeast-20221012-002350/fields.csv
+Updated log fields: ['_tick', '_time', 'frames', 'total_loss', 'mean_episode_return', 'pg_loss', 'baseline_loss', 'entropy_loss', 'gen_rewards', 'gg_loss', 'generator_entropy_loss', 'generator_baseline_loss', 'mean_intrinsic_rewards', 'mean_episode_steps', 'ex_reward', 'generator_current_target']
